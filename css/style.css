@@ -1,0 +1,165 @@
+body{
+	background: #E1E4EF;
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background: #3F5C9A;
+	height: 80px;
+	width: 100%;
+
+}
+.header-left{
+	font-size: 40px;
+	position: absolute;
+	left: 180px;
+	top: 3%;
+	color: #FDFEFE;
+	font-family:Helvetica,Arial,sans-serif;
+	
+}
+.header-right-email{
+	position: absolute;
+	right: 490px;
+	top: 12px;
+	font-size: 12px;
+	font-family:Helvetica,Arial,sans-serif;
+	color: #FDFEFE; 
+}
+.header-right-password{
+    position: absolute;
+	right: 360px;
+	top: 12px;
+	font-size: 12px;
+	font-family:Helvetica,Arial,sans-serif;
+	color: #FDFEFE; 
+}
+.header-right{
+	position: absolute;
+	right: 90px;
+	top: 36px;
+}
+.header-right-input-email{
+	width: 150px;
+	height: 25px;
+	border:.5px solid black;
+}
+.header-right-input-password{
+	width: 150px;
+	height: 25px;
+	border:.5px solid black;
+	margin-left: 5px;
+}
+.header-right-input-submit{
+	height: 25px;
+	color:#FFFFFF; 
+	background: #365899;
+	border: none;
+	cursor: pointer;
+}
+.header-right-input-submit:hover{
+	
+	color:#FFFFFF; 
+	background:#18A05D ;
+	
+}
+.forgotten{
+	color: #83B4D8;
+	text-decoration: none;
+	position: relative;
+	top: 20px;
+	left: -204px;
+	font-size: 14px;
+	font-family: Helvetica,Arial,sans-serif;
+
+
+}
+.forgotten:hover{
+	text-decoration: underline;
+}
+.left{
+	width: 55%;
+	position: absolute;
+	top: 20%;
+	left: 13%;
+
+}
+.body-left{
+	font-size: 20px;
+	width: 300px;
+	font-family: Helvetica,Arial,sans-serif;
+	color: #0E385F;
+}
+img{
+	margin: 90px 0px 0px 150px;
+}
+.right{
+	width: 45%;
+	position: absolute;
+	top: 16%;
+	left: 56%;
+}
+.span-1{
+	font-family: Helvetica,Arial,sans-serif;
+	color: #333333;
+	font-size: 40px;
+
+}
+.span-2{
+	font-family: Helvetica,Arial,sans-serif;
+	color: #333333;
+	font-size: 20px;
+
+}
+.input-first{
+	height: 30px;
+	width: 180px;
+	border-radius: 3px;
+	border: 1px solid gray;
+	font-size: 20px;
+}
+.input-email{
+	height: 30px;
+	width: 365px;
+	border-radius: 3px;
+	border: 1px solid gray;
+	font-size: 20px;
+}
+.input-password{
+	height: 30px;
+	width: 365px;
+	border-radius: 3px;
+	border: 1px solid gray;
+	font-size: 20px;
+}
+.birthday{
+	font-size: 18px;
+	font-family: Helvetica,Arial,sans-serif;
+	color: #90949C; 
+}
+select{
+	height: 30px;
+	width: 55px;
+	padding: 6px;
+
+}
+a{
+	text-decoration: none;
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 12px;
+}
+.signup{
+	height: 35px;
+	width: 120px;
+	color: #fff;
+	background: #659D50;
+	border-radius: 5px;
+	border: none;
+	cursor: pointer;
+}
+.signup:hover{
+	
+	color: #fff;
+	background: #FF9800;
+	
+}
